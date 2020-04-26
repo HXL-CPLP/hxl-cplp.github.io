@@ -1,7 +1,13 @@
 # hxl-cplp.github.io
-Este repositório contém o conteúdo de <https://hxl.etica.ai>, que por sua
-vez redireciona para <https://github.com/HXL-CPLP> (isto é, serve como atalho
-curto para organização do no GitHub).
+> Este repositório contém o conteúdo de <https://hxl.etica.ai>, que por sua
+> vez redireciona para <https://github.com/HXL-CPLP> (isto é, serve como atalho
+> curto para organização do no GitHub).
+
+[![Standard HXL](https://img.shields.io/badge/Standard-HXL-%23F26459)](https://hxlstandard.org/)
+![GitHub](https://img.shields.io/github/license/HXL-CPLP/hxl-cplp.github.io)
+![GitHub stars](https://img.shields.io/github/stars/HXL-CPLP/hxl-cplp.github.io?style=social)
+
+[![Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa](img/banner-hxl-cplp.png)](https://hxlstandard.org/)
 
 Esse repositório também serve para permitir que todos os demais repositórios da
 organização que tenham também habilitada a função [GitHub Pages](https://help.github.com/pt/github/working-with-github-pages/about-github-pages) porém não
