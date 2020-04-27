@@ -13,3 +13,10 @@ Esse repositório também serve para permitir que todos os demais repositórios 
 organização que tenham também habilitada a função [GitHub Pages](https://help.github.com/pt/github/working-with-github-pages/about-github-pages) porém não
 possuírem um [CNAME](CNAME) dedicado tenham automaticamente uma URL curta do
 tipo `https://hxl.etica.ai/Nome-Do-Repositório`.
+
+# Aviso Legal
+Tanto o site <https://padrao-hxl.etica.ai> como a organização no GitHub
+<https://github.com/HXL-CPLP> e seus projetos são realizações voluntárias do
+**Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua
+Portuguesa** e, ainda que possa haver colaboração ou uso de conteúdo,
+**não somos afiliados ou endossados por HXLStandard.org, OCHA, IFRC e afins**.
